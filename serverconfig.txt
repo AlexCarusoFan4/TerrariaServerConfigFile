@@ -1,0 +1,6 @@
+world=.local/share/Terraria/Worlds/Esperance.wld
+maxplayers=8
+port=7777
+password=putin
+motd=Don't forget to check out the shops in the oasis biome for the latest sik deals!
+upnp=1!
